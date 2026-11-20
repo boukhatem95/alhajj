@@ -1,7 +1,7 @@
 {
   "name": "الحاج",
   "short_name": "الحاج",
-  "description": "دفتر الديون الشخصي",
+  "description": "إدارة المال والديون والمهام والعادات والأهداف",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
